@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pngimg.com - rope_PNG18118_0: -1631313541352094785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

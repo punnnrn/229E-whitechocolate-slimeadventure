@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2d_platformer_background_forest_version_by_ternology_dep186p-fullview_0: 3101134110412882930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
